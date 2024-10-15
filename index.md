@@ -5,13 +5,14 @@
 ### Category Name 1 
 
 [Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)
-<img src="images/Coffee 1.png.png?raw=true"/>
-<img src="images/Caffee Berry - 1.png?raw=true"/>
-<img src="images/Caffee Berry 2.png.png?raw=true"/>
+<img src="images/Coffee_1.png"/>
+<img src="images/CaffeeBerry_1.png?raw=true"/>
+<img src="images/CaffeeBerry_2.png?raw=true"/>
+<img src="images/CaffeeBerry_3.png?raw=true"/>
 
 ---
 [Business Analysis](/pdf/Taxi Operation.pdf)
-<img src="Taxi 1.png?raw=true"/>
+<img src="images/Taxi_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
