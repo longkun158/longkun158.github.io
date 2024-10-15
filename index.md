@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Work Projects
+## Work Projects
 
 ### [Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)
 <img src="images/Coffee_1.png"/>
