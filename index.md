@@ -4,14 +4,14 @@
 
 ### Work Projects
 
-<h2>[Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)<h2/>
+### [Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)
 <img src="images/Coffee_1.png"/>
 <img src="images/CaffeeBerry_1.png?raw=true"/>
 <img src="images/CaffeeBerry_2.png?raw=true"/>
 <img src="images/CaffeeBerry_3.png?raw=true"/>
 
 ---
-<h2>[Business Analysis](/pdf/Taxi_Operation.pdf)<h2/>
+### [Business Analysis](/pdf/Taxi_Operation.pdf) 
 <img src="images/Taxi_1.png?raw=true"/>
 <img src="images/6.jpg?raw=true"/>
 <img src="images/7.jpg?raw=true"/>
