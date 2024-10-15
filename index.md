@@ -4,12 +4,14 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Industrial and Sentiment Analysis](/pdf/Caffe Berry Business Analysis.pdf)
+<img src="images/Coffee 1.png.png?raw=true"/>
+<img src="images/Caffee Berry - 1.png?raw=true"/>
+<img src="images/Caffee Berry 2.png.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Business Analysis](/pdf/Taxi Operation.pdf)
+<img src="Taxi 1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
