@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Industrial and Sentiment Analysis](/pdf/Caffe Berry Business Analysis.pdf)
+[Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)
 <img src="images/Coffee 1.png.png?raw=true"/>
 <img src="images/Caffee Berry - 1.png?raw=true"/>
 <img src="images/Caffee Berry 2.png.png?raw=true"/>
