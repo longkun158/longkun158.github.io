@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Work Projects
 
 [Industrial and Sentiment Analysis](/pdf/Caffe_Berry_Business_Analysis.pdf)
 <img src="images/Coffee_1.png"/>
@@ -11,18 +11,18 @@
 <img src="images/CaffeeBerry_3.png?raw=true"/>
 
 ---
-[Business Analysis](/pdf/Taxi Operation.pdf)
+[Business Analysis](/pdf/Taxi_Operation.pdf)
 <img src="images/Taxi_1.png?raw=true"/>
+<img src="images/6.png?raw=true"/>
+<img src="images/7.png?raw=true"/>
+<img src="images/8.png?raw=true"/>
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### School Projects
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+- [Health Survey Questions Analysis](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
