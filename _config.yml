@@ -1,13 +1,12 @@
 title: Long Pham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   Data Analytics with MBA background 
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/kevinpham158///">View My LinkedIn Profile</a>
-  <br><br>
-  <a href="https://github.com/longkun158">View My GitHub Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
