@@ -38,7 +38,7 @@
 
 ### [Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
 
-<img src="images/FA.png?raw=true"/>
+<img src="images/factor.png?raw=true"/>
 
 **Project Goals**
 
