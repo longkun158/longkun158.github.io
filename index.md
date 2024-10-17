@@ -14,6 +14,7 @@
 - Performed sentiment analysis using Natural Language Processing techniques and machine learning models from NLTK and Hugging Face, leading to the development of 4 comprehensive competitor profiles to support the company’s strategic planning.
 
 **Delivery**
+<br>
 [Presentation with Canva slides](/pdf/Caffe_Berry_Business_Analysis.pdf)
 
 
@@ -29,7 +30,7 @@
 - Presented actionable insights and recommendations through compelling visualizations and an engaging Canva presentation, tailored for stakeholders.
 
 **Delivery**
-
+<br>
 [Canva Slide](/pdf/Taxi_Operation.pdf) 
 
 ---
