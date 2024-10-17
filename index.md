@@ -2,9 +2,9 @@
 
 ---
 
-## Work Projects
+## A. Work Projects
 
-### [Industrial and Sentiment Analysis (Python Project)](https://github.com/longkun158/CoffeeCherry)
+### 1. [Industrial and Sentiment Analysis (Python Project)](https://github.com/longkun158/CoffeeCherry)
 
 <img src="images/Coffee_12.png"/>
 
@@ -19,7 +19,7 @@
 
 
 ---
-### [Business Analysis](https://github.com/longkun158/Data-Taxi-Operation)
+### 2. [Business Analysis](https://github.com/longkun158/Data-Taxi-Operation)
 
 <img src="images/Taxi_final.png?raw=true"/>
 
@@ -35,9 +35,9 @@
 
 ---
 
-## School Projects
+## B. School Projects
 
-### [Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
+### 1. [Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
 
 <img src="images/factor.png?raw=true"/>
 
