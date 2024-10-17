@@ -14,12 +14,12 @@
 - Performed sentiment analysis using Natural Language Processing techniques and machine learning models from NLTK and Hugging Face, leading to the development of 4 comprehensive competitor profiles to support the company’s strategic planning.
 
 **Delivery**
-<br>
+<br><br>
 [Presentation with Canva slides](/pdf/Caffe_Berry_Business_Analysis.pdf)
 
 
 ---
-### 2. [Business Analysis](https://github.com/longkun158/Data-Taxi-Operation)
+### 2. [Business Analysis (Python Project)](https://github.com/longkun158/Data-Taxi-Operation)
 
 <img src="images/Taxi_final.png?raw=true"/>
 
@@ -30,7 +30,7 @@
 - Presented actionable insights and recommendations through compelling visualizations and an engaging Canva presentation, tailored for stakeholders.
 
 **Delivery**
-<br>
+<br><br>
 [Canva Slide](/pdf/Taxi_Operation.pdf) 
 
 ---
@@ -48,7 +48,7 @@
 
 
 **Delivery**
-
+<br><br>
 [PDF Markdown File](pdf/Health-Analysis.pdf)
 
 
