@@ -52,10 +52,19 @@
 [PDF Markdown File](pdf/Health-Analysis.pdf)
 
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### [2. Understanding Wildfire patterns (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
+
+<img src="images/Poster_png.png?raw=true"/>
+
+**Project Goals**
+
+- Using Exploratory Data Analysis to find relationships between different technical variables of a wildfire data set.
+- Finding trends and patterns to predict in average hectares wildfires happen throughout a year.
+- Created a story to present in a poster to educate about wildfires.
+
+**Delivery**
+<br>
+[Poster and PDF Markdown File](pdf/Understand_Wildefire.pdf)
 
 ---
 
