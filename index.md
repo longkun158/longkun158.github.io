@@ -1,5 +1,7 @@
 # Portfolio
 
+## *If you prefer resume format* [click here](pdf/LongPham_Resume.pdf)
+
 ---
 
 ## A. Work Projects
