@@ -1,6 +1,6 @@
 # Portfolio
 
-## *If you prefer resume format* [click here](pdf/LongPham_Resume.pdf)
+*If you prefer resume format* [click here](pdf/longresume.pdf)
 
 ---
 
