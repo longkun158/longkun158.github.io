@@ -1,12 +1,12 @@
 # Portfolio
 
-*If you prefer resume format* [click here](pdf/longresume.pdf)
+*If you prefer resume format* [click here](pdf/longresume.pdf){:target="_blank"}
 
 ---
 
 ## A. Work Projects
 
-### [1. Industrial and Sentiment Analysis (Python Project)](https://github.com/longkun158/CoffeeCherry)
+### [1. Industrial and Sentiment Analysis (Python Project)](https://github.com/longkun158/CoffeeCherry){:target="_blank"}
 
 <img src="images/Coffee_12.png"/>
 
@@ -17,11 +17,11 @@
 
 **Delivery**
 <br><br>
-[Presentation with Canva slides](/pdf/Caffe_Berry_Business_Analysis.pdf)
+[Presentation with Canva slides](/pdf/Caffe_Berry_Business_Analysis.pdf){:target="_blank"}
 
 
 ---
-### [2. Business Analysis (Python Project)](https://github.com/longkun158/Data-Taxi-Operation)
+### [2. Business Analysis (Python Project)](https://github.com/longkun158/Data-Taxi-Operation){:target="_blank"}
 
 <img src="images/Taxi_final.png?raw=true"/>
 
@@ -33,13 +33,13 @@
 
 **Delivery**
 <br><br>
-[Canva Slide](/pdf/Taxi_Operation.pdf) 
+[Canva Slide](/pdf/Taxi_Operation.pdf){:target="_blank"}
 
 ---
 
 ## B. School Projects
 
-### [1. Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
+### [1. Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion){:target="_blank"}
 
 <img src="images/factor.png?raw=true"/>
 
@@ -51,10 +51,10 @@
 
 **Delivery**
 <br>
-[PDF Markdown File](pdf/Health-Analysis.pdf)
+[PDF Markdown File](pdf/Health-Analysis.pdf){:target="_blank"}
 
 
-### [2. Understanding Wildfire patterns (R-RStudio Project)](https://github.com/longkun158/HealthQuestion)
+### [2. Understanding Wildfire patterns (R-RStudio Project)](https://github.com/longkun158/HealthQuestion){:target="_blank"}
 
 <img src="images/Poster_png.png?raw=true"/>
 
@@ -66,7 +66,7 @@
 
 **Delivery**
 <br>
-[Poster and PDF Markdown File](pdf/Understand_Wildefire.pdf)
+[Poster and PDF Markdown File](pdf/Understand_Wildefire.pdf){:target="_blank"}
 
 ---
 
