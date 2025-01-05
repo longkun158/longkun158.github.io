@@ -1,6 +1,6 @@
 # Portfolio
 
-*If you prefer resume format* [click here](pdf/longresume.pdf){:target="_blank"}
+*If you prefer resume format* <a href="pdf/longresume.pdf" target="_blank">click here</a>
 
 ---
 
