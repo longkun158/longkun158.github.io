@@ -1,4 +1,4 @@
-# Portfolio
+# Resume
 
 *If you prefer resume format* <a href="pdf/longresume.pdf" target="_blank">click here</a>
 
@@ -6,7 +6,7 @@
 
 ## A. Work Projects
 
-### [1. Industrial and Sentiment Analysis (Python Project)](https://github.com/longkun158/CoffeeCherry){:target="_blank"}
+### <a href="https://github.com/longkun158/CoffeeCherry" target="_blank">1. Industrial and Sentiment Analysis (Python Project)</a>
 
 <img src="images/Coffee_12.png"/>
 
@@ -17,11 +17,10 @@
 
 **Delivery**
 <br><br>
-[Presentation with Canva slides](/pdf/Caffe_Berry_Business_Analysis.pdf){:target="_blank"}
-
+<a href="pdf/Caffe_Berry_Business_Analysis.pdf" target="_blank">Presentation with Canva slides</a>
 
 ---
-### [2. Business Analysis (Python Project)](https://github.com/longkun158/Data-Taxi-Operation){:target="_blank"}
+### <a href="https://github.com/longkun158/Data-Taxi-Operation" target="_blank">2. Business Analysis (Python Project)</a>
 
 <img src="images/Taxi_final.png?raw=true"/>
 
@@ -33,13 +32,13 @@
 
 **Delivery**
 <br><br>
-[Canva Slide](/pdf/Taxi_Operation.pdf){:target="_blank"}
+<a href="pdf/Taxi_Operation.pdf" target="_blank">Canva Slide</a>
 
 ---
 
 ## B. School Projects
 
-### [1. Health Survey Questions Analysis (R-RStudio Project)](https://github.com/longkun158/HealthQuestion){:target="_blank"}
+### <a href="https://github.com/longkun158/HealthQuestion" target="_blank">1. Health Survey Questions Analysis (R-RStudio Project)</a>
 
 <img src="images/factor.png?raw=true"/>
 
@@ -48,13 +47,11 @@
 - Analyzed differences between body types and diet types on physical and mental health scales, revealing distinct patterns by body type. Presented findings with relevant visualizations for clarity.
 - Applied Principal Component Analysis (PCA) to visually distinguish group responses and used Factor Analysis to identify two key latent factors for mental health and social connection, providing insights into health perceptions associated with each body type.
 
-
 **Delivery**
 <br>
-[PDF Markdown File](pdf/Health-Analysis.pdf){:target="_blank"}
+<a href="pdf/Health-Analysis.pdf" target="_blank">PDF Markdown File</a>
 
-
-### [2. Understanding Wildfire patterns (R-RStudio Project)](https://github.com/longkun158/HealthQuestion){:target="_blank"}
+### <a href="https://github.com/longkun158/HealthQuestion" target="_blank">2. Understanding Wildfire patterns (R-RStudio Project)</a>
 
 <img src="images/Poster_png.png?raw=true"/>
 
@@ -66,11 +63,8 @@
 
 **Delivery**
 <br>
-[Poster and PDF Markdown File](pdf/Understand_Wildefire.pdf){:target="_blank"}
+<a href="pdf/Understand_Wildefire.pdf" target="_blank">Poster and PDF Markdown File</a>
 
 ---
-
-
-
 
 ---
