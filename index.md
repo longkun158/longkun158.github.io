@@ -12,14 +12,35 @@
 
 **Project Goals**
 
-- Scrape Data from iherb.com/ca about competitor products of Coffee Cherry using Beautiful Soup and Selenium to prepare for analysis.
-- Performed sentiment analysis using Natural Language Processing techniques and machine learning models from NLTK and Hugging Face, leading to the development of 4 comprehensive competitor profiles to support the company’s strategic planning.
+- Scraped, cleaned, and analyzed customer reviews using NLP Models with Beautiful Soup and Selenium for sentiment analysis.
+- Conducted exploratory data analysis and applied text analysis using ML and AI (NLTK, Hugging Face) to develop competitor profiles for strategic decision-making.
+- Completed a comprehensive industrial and competitive analysis of three major competitors by providing business and strategic insights.
+- Presented key findings and takeaways for both technical and non-technical audiences using multiple visualization tools such as Tableau and Canvas.
 
 **Delivery**
 <br><br>
 <a href="pdf/Caffe_Berry_Business_Analysis.pdf" target="_blank">Presentation with Canva slides</a>
 
+## B. Personal Projects
+
 ---
+
+### <a href="https://github.com/longkun158/HealthQuestion" target="_blank">1. Health Survey Questions Analysis (R-RStudio Project)</a>
+
+<img src="images/factor.png?raw=true"/>
+
+**Project Goals**
+
+- Analyzed differences between body types and diet types on physical and mental health scales, revealing distinct patterns by body type. Presented findings with relevant visualizations for clarity.
+- Applied Principal Component Analysis (PCA) to visually distinguish group responses and used Factor Analysis to identify two key latent factors for mental health and social connection, providing insights into health perceptions associated with each body type.
+
+**Delivery**
+<br>
+<a href="pdf/Health-Analysis.pdf" target="_blank">PDF Markdown File</a>
+
+---
+
+
 ### <a href="https://github.com/longkun158/Data-Taxi-Operation" target="_blank">2. Business Analysis (Python Project)</a>
 
 <img src="images/Taxi_final.png?raw=true"/>
@@ -36,20 +57,6 @@
 
 ---
 
-## B. School Projects
-
-### <a href="https://github.com/longkun158/HealthQuestion" target="_blank">1. Health Survey Questions Analysis (R-RStudio Project)</a>
-
-<img src="images/factor.png?raw=true"/>
-
-**Project Goals**
-
-- Analyzed differences between body types and diet types on physical and mental health scales, revealing distinct patterns by body type. Presented findings with relevant visualizations for clarity.
-- Applied Principal Component Analysis (PCA) to visually distinguish group responses and used Factor Analysis to identify two key latent factors for mental health and social connection, providing insights into health perceptions associated with each body type.
-
-**Delivery**
-<br>
-<a href="pdf/Health-Analysis.pdf" target="_blank">PDF Markdown File</a>
 
 ### <a href="https://github.com/longkun158/HealthQuestion" target="_blank">2. Understanding Wildfire patterns (R-RStudio Project)</a>
 
