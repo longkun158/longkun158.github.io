@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Results-driven Data Analyst with SQL, R, and Excel expertise for data extraction, manipulation, and statistical analysis supporting strategic business and marketing.
   <br><br>
-  <a href="https://www.linkedin.com/in/kevinpham158///">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/kevinpham158///" target="_blank" >View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
